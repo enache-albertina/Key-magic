@@ -2,7 +2,7 @@
 ##Trie Data Structure in C##
 
 Această implementare Trie în C permite introducerea, căutarea și autocorectarea cuvintelor.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Descrierea funcțiilor
 
 *trie_init(trie_t *trie, int alphabet_size, const char *alphabet, void (*free_value_cb)(void *)): inițializează structura trie.
