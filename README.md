@@ -36,7 +36,7 @@ autocorrect_helper(trie_node_t *node, char *word, int level, int k, char *output
 
 *wildcard_search_in_trie: Caută toate cuvintele din trie care se potrivesc cu un pattern wildcard specificat (de exemplu, "t*t" ar putea returna "tat", "tit", "tot", etc.).
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Cum să rulezi codul
 Pentru a rula codul, aveți nevoie de un compilator C.
 
